@@ -1,0 +1,289 @@
+{
+  "@ai-sdk/gateway@1.0.32": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/vercel/ai",
+    "path": "node_modules/@ai-sdk/gateway",
+    "licenseFile": "node_modules/@ai-sdk/gateway/LICENSE"
+  },
+  "@ai-sdk/react@2.0.57": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/vercel/ai",
+    "path": "node_modules/@ai-sdk/react",
+    "licenseFile": "node_modules/@ai-sdk/react/LICENSE"
+  },
+  "@currentai/dsts@0.1.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/current-ai-llc/dsts",
+    "publisher": "Current AI",
+    "path": "node_modules/@currentai/dsts",
+    "licenseFile": "node_modules/@currentai/dsts/LICENSE"
+  },
+  "@eslint/eslintrc@3.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/eslint/eslintrc",
+    "publisher": "Nicholas C. Zakas",
+    "path": "node_modules/@eslint/eslintrc",
+    "licenseFile": "node_modules/@eslint/eslintrc/LICENSE"
+  },
+  "@opentelemetry/api@1.9.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/open-telemetry/opentelemetry-js",
+    "publisher": "OpenTelemetry Authors",
+    "path": "node_modules/@opentelemetry/api",
+    "licenseFile": "node_modules/@opentelemetry/api/LICENSE"
+  },
+  "@radix-ui/react-checkbox@1.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "node_modules/@radix-ui/react-checkbox",
+    "licenseFile": "node_modules/@radix-ui/react-checkbox/LICENSE"
+  },
+  "@radix-ui/react-dialog@1.1.15": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "node_modules/@radix-ui/react-dialog",
+    "licenseFile": "node_modules/@radix-ui/react-dialog/LICENSE"
+  },
+  "@radix-ui/react-dropdown-menu@2.1.16": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "node_modules/@radix-ui/react-dropdown-menu",
+    "licenseFile": "node_modules/@radix-ui/react-dropdown-menu/LICENSE"
+  },
+  "@radix-ui/react-scroll-area@1.2.10": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "node_modules/@radix-ui/react-scroll-area",
+    "licenseFile": "node_modules/@radix-ui/react-scroll-area/LICENSE"
+  },
+  "@radix-ui/react-select@2.2.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "node_modules/@radix-ui/react-select",
+    "licenseFile": "node_modules/@radix-ui/react-select/LICENSE"
+  },
+  "@radix-ui/react-slot@1.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "node_modules/@radix-ui/react-slot",
+    "licenseFile": "node_modules/@radix-ui/react-slot/LICENSE"
+  },
+  "@radix-ui/react-tabs@1.1.13": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "node_modules/@radix-ui/react-tabs",
+    "licenseFile": "node_modules/@radix-ui/react-tabs/LICENSE"
+  },
+  "@radix-ui/react-tooltip@1.2.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "node_modules/@radix-ui/react-tooltip",
+    "licenseFile": "node_modules/@radix-ui/react-tooltip/LICENSE"
+  },
+  "@tailwindcss/postcss@4.1.13": {
+    "licenses": "MIT",
+    "repository": "https://github.com/tailwindlabs/tailwindcss",
+    "path": "node_modules/@tailwindcss/postcss",
+    "licenseFile": "node_modules/@tailwindcss/postcss/LICENSE"
+  },
+  "@testing-library/jest-dom@6.9.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/testing-library/jest-dom",
+    "publisher": "Ernesto Garcia",
+    "email": "gnapse@gmail.com",
+    "url": "http://gnapse.github.io",
+    "path": "node_modules/@testing-library/jest-dom",
+    "licenseFile": "node_modules/@testing-library/jest-dom/LICENSE"
+  },
+  "@testing-library/react@16.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/testing-library/react-testing-library",
+    "publisher": "Kent C. Dodds",
+    "email": "me@kentcdodds.com",
+    "url": "https://kentcdodds.com",
+    "path": "node_modules/@testing-library/react",
+    "licenseFile": "node_modules/@testing-library/react/LICENSE"
+  },
+  "@testing-library/user-event@14.6.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/testing-library/user-event",
+    "publisher": "Giorgio Polvara",
+    "email": "polvara@gmail.com",
+    "path": "node_modules/@testing-library/user-event",
+    "licenseFile": "node_modules/@testing-library/user-event/LICENSE"
+  },
+  "@types/node@20.19.17": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "node_modules/@types/node",
+    "licenseFile": "node_modules/@types/node/LICENSE"
+  },
+  "@types/react-dom@19.1.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "node_modules/@types/react-dom",
+    "licenseFile": "node_modules/@types/react-dom/LICENSE"
+  },
+  "@types/react@19.1.15": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "node_modules/@types/react",
+    "licenseFile": "node_modules/@types/react/LICENSE"
+  },
+  "@vitest/coverage-v8@2.1.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vitest-dev/vitest",
+    "publisher": "Anthony Fu",
+    "email": "anthonyfu117@hotmail.com",
+    "path": "node_modules/@vitest/coverage-v8",
+    "licenseFile": "node_modules/@vitest/coverage-v8/LICENSE"
+  },
+  "ai@5.0.57": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/vercel/ai",
+    "path": "node_modules/ai",
+    "licenseFile": "node_modules/ai/LICENSE"
+  },
+  "class-variance-authority@0.7.1": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/joe-bell/cva",
+    "publisher": "Joe Bell",
+    "url": "https://joebell.co.uk",
+    "path": "node_modules/class-variance-authority",
+    "licenseFile": "node_modules/class-variance-authority/LICENSE"
+  },
+  "clsx@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lukeed/clsx",
+    "publisher": "Luke Edwards",
+    "email": "luke.edwards05@gmail.com",
+    "url": "https://lukeed.com",
+    "path": "node_modules/clsx",
+    "licenseFile": "node_modules/clsx/license"
+  },
+  "eslint-config-next@15.5.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vercel/next.js",
+    "path": "node_modules/eslint-config-next"
+  },
+  "eslint@9.36.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/eslint/eslint",
+    "publisher": "Nicholas C. Zakas",
+    "email": "nicholas+npm@nczconsulting.com",
+    "path": "node_modules/eslint",
+    "licenseFile": "node_modules/eslint/LICENSE"
+  },
+  "happy-dom@15.11.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/capricorn86/happy-dom",
+    "publisher": "David Ortner",
+    "path": "node_modules/happy-dom",
+    "licenseFile": "node_modules/happy-dom/LICENSE"
+  },
+  "husky@9.1.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/typicode/husky",
+    "publisher": "typicode",
+    "path": "node_modules/husky",
+    "licenseFile": "node_modules/husky/LICENSE"
+  },
+  "lint-staged@16.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lint-staged/lint-staged",
+    "publisher": "Andrey Okonetchnikov",
+    "email": "andrey@okonet.ru",
+    "path": "node_modules/lint-staged",
+    "licenseFile": "node_modules/lint-staged/LICENSE"
+  },
+  "lucide-react@0.544.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/lucide-icons/lucide",
+    "publisher": "Eric Fennis",
+    "path": "node_modules/lucide-react",
+    "licenseFile": "node_modules/lucide-react/LICENSE"
+  },
+  "next@15.5.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vercel/next.js",
+    "path": "node_modules/next",
+    "licenseFile": "node_modules/next/license.md"
+  },
+  "prompt-optimizer@0.1.0": {
+    "licenses": "UNLICENSED",
+    "private": true,
+    "path": ".",
+    "licenseFile": "LICENSE"
+  },
+  "react-dom@19.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "path": "node_modules/react-dom",
+    "licenseFile": "node_modules/react-dom/LICENSE"
+  },
+  "react@19.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "path": "node_modules/react",
+    "licenseFile": "node_modules/react/LICENSE"
+  },
+  "tailwind-merge@2.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/dcastil/tailwind-merge",
+    "publisher": "Dany Castillo",
+    "path": "node_modules/tailwind-merge",
+    "licenseFile": "node_modules/tailwind-merge/LICENSE.md"
+  },
+  "tailwindcss@4.1.13": {
+    "licenses": "MIT",
+    "repository": "https://github.com/tailwindlabs/tailwindcss",
+    "path": "node_modules/tailwindcss",
+    "licenseFile": "node_modules/tailwindcss/LICENSE"
+  },
+  "tw-animate-css@1.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Wombosvideo/tw-animate-css",
+    "publisher": "Luca Bosin",
+    "url": "https://github.com/Wombosvideo",
+    "path": "node_modules/tw-animate-css",
+    "licenseFile": "node_modules/tw-animate-css/LICENSE"
+  },
+  "typescript@5.9.2": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/microsoft/TypeScript",
+    "publisher": "Microsoft Corp.",
+    "path": "node_modules/typescript",
+    "licenseFile": "node_modules/typescript/LICENSE.txt"
+  },
+  "vaul@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/emilkowalski/vaul",
+    "publisher": "Emil Kowalski",
+    "email": "e@emilkowal.ski",
+    "path": "node_modules/vaul",
+    "licenseFile": "node_modules/vaul/LICENSE.md"
+  },
+  "vite-tsconfig-paths@4.3.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/aleclarson/vite-tsconfig-paths",
+    "publisher": "aleclarson",
+    "path": "node_modules/vite-tsconfig-paths",
+    "licenseFile": "node_modules/vite-tsconfig-paths/LICENSE"
+  },
+  "vitest@2.1.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vitest-dev/vitest",
+    "publisher": "Anthony Fu",
+    "email": "anthonyfu117@hotmail.com",
+    "path": "node_modules/vitest",
+    "licenseFile": "node_modules/vitest/LICENSE.md"
+  },
+  "zod@4.1.11": {
+    "licenses": "MIT",
+    "repository": "https://github.com/colinhacks/zod",
+    "publisher": "Colin McDonnell",
+    "email": "zod@colinhacks.com",
+    "path": "node_modules/zod",
+    "licenseFile": "node_modules/zod/LICENSE"
+  }
+}

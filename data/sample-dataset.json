@@ -1,0 +1,26 @@
+{
+  "trainset": [
+    {
+      "id": "train-1",
+      "input": "Customer support transcript:\n- Agent asks for order #74219.\n- Customer provides the number but requests privacy.\n- Agent promises to redact personal details before escalation.",
+      "expectedOutput": "## Summary\n- Agent collected the order number and confirmed they will redact sensitive info before escalation.\n\n## Decisions\n- Proceed with escalation only after redacting personal details.\n\n## Action Items\n- Support team redacts order #74219 identifiers prior to sharing."
+    },
+    {
+      "id": "train-2",
+      "input": "Meeting notes:\n- Legal flagged that draft contracts still include placeholder client names.\n- PM committed to replace placeholders with generic labels.\n- Follow-up review scheduled next Tuesday.",
+      "expectedOutput": "## Summary\n- Legal found client names in the draft and requested generic labels instead.\n\n## Decisions\n- Replace all placeholder client names with neutral labels.\n\n## Action Items\n- Product manager updates the draft before the next Tuesday review."
+    },
+    {
+      "id": "train-3",
+      "input": "Incident review:\n- Logs exposed API tokens in plain text.\n- Engineering rotated the tokens immediately.\n- Ops will add automated scans before deploys.",
+      "expectedOutput": "## Summary\n- Team discovered plain text API tokens and rotated them immediately.\n\n## Decisions\n- Add automated scans to catch exposed credentials before deployment.\n\n## Action Items\n- Operations team integrates credential scanning into the release pipeline."
+    }
+  ],
+  "valset": [
+    {
+      "id": "val-1",
+      "input": "Product briefing:\n- Design shared mockups containing internal user IDs.\n- Stakeholders requested anonymized screenshots for the deck.\n- Next sync booked for Friday.",
+      "expectedOutput": "## Summary\n- Design presented mockups with internal IDs; stakeholders asked for anonymized images.\n\n## Decisions\n- Replace internal user IDs with anonymized placeholders in the presentation.\n\n## Action Items\n- Design team swaps screenshots before Friday's sync."
+    }
+  ]
+}
